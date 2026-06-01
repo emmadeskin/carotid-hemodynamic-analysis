@@ -21,18 +21,18 @@ Two complementary approaches were used in parallel:
 - Mesh element size 0.0001 m with adaptive sizing level 4; minimum mesh orthogonality of 0.187
 - Simulations run to steady-state convergence for all three flow conditions
 
-![ANSYS mesh setup with inlet (blue) and outlet (red) boundary conditions](images/fig4_ansys_mesh_setup.png)
+![ANSYS mesh setup with inlet (blue) and outlet (red) boundary conditions](images/Figure_4.png)
 
 **Physical (Flow Visualization)**
 - Anatomical STL model sourced from Thingiverse, repaired and remeshed in Meshmixer (patched geometry defects, scaled diameter to 12 mm / length 70.9 mm), 3D printed in clear PLA on an Ultimaker S3
 
-![Carotid bifurcation STL model prepared in Meshmixer](images/Figure 1.png)
+![Carotid bifurcation STL model prepared in Meshmixer](images/Figure_1.png)
 
 - Model placed in a 6"×6" cross-section flow tank; stabilized with clamps
 - Fluorescent dye injected at the inlet under blacklight illumination with a black background to maximize contrast
 - Video captured on iPhone 13 Pro and analyzed frame-by-frame in ImageJ to estimate flow velocity and quantify separation regions
 
-![Flow tank setup used for dye visualization experiments](images/fig2_flow_tank_setup.png)
+![Flow tank setup used for dye visualization experiments](images/Figure_2.png)
 
 ---
 
