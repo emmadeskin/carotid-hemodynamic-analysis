@@ -54,23 +54,19 @@ Two complementary approaches were used in parallel:
 - Helical flow pattern identified at the bifurcation apex and downstream in the OCA across all exercise levels
 - At higher flow speeds, inertial forces increasingly dominated over viscous forces, producing a more direct flow path through the vessel
 
-![Dye visualization at rest (left), moderate exercise (center), and intense exercise (right)](images/fig5_6_7_dye_visualization.png)
 
 **Wall shear stress (CFD)**
 - Low WSS consistently localized to the carotid sinus — a known risk region for atherosclerotic plaque formation
 - High WSS concentrated at the bifurcation apex and at inlet/outlet vessel cross-sections
 - WSS magnitude increased with exercise intensity across all regions
 
-![Wall shear stress distribution at rest (A), moderate exercise (B), and intense exercise (C)](images/fig10_wss_comparison.png)
 
 **Velocity and pressure (CFD)**
 - Velocity magnitude peaked outside the carotid sinus; reversed flow observed within the sinus at rest
 - Pressure highest at the inlet and decreased progressively toward the outlets
 - Vorticity magnitude highest near vessel walls and at the downstream end of the sinus
 
-![Velocity colormap, pressure contours, streamlines, and vorticity at rest](images/fig9_velocity_pressure_rest.png)
 
-![Velocity streamlines at rest (A), moderate exercise (B), and intense exercise (C)](images/fig11_streamlines_comparison.png)
 
 **Physical visualization**
 - Low-velocity residual dye region in the carotid sinus measured at ~0.0053 m at intense exercise conditions using ImageJ
